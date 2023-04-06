@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+#output {
+    display: none;
+}
+
+#my-output {
+    display: none;
+    color: purple;
+}
